@@ -1,0 +1,75 @@
+﻿<Page
+    x:Class="PasswordLocker.List_Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PasswordLocker"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <Style x:Key="TextBoxStyle" TargetType="TextBox">
+            <Setter Property="Margin" Value="25,10,25,10"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+        </Style>
+        <Style x:Key="TextBlockStyle" TargetType="TextBlock">
+            <Setter Property="Margin" Value="25,10,25,10"/>
+        </Style>
+        <Style x:Key="TitleBlockStyle" TargetType="TextBlock">
+            <Setter Property="Margin" Value="25,10,25,10"/>
+        </Style>
+    </Page.Resources>
+
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Image Source="/Assets/Sherlock.jpg"
+                   HorizontalAlignment="Stretch"
+                   VerticalAlignment="Stretch"
+                   Grid.Column="0"
+                   Stretch="Fill"/>
+
+        <Image Source="/Assets/Sherlock.jpg"
+                   HorizontalAlignment="Stretch"
+                   VerticalAlignment="Stretch"
+                   Grid.Column="2"
+                   Stretch="Fill"/>
+        <ScrollViewer Grid.Column="1">
+            <StackPanel >
+                <TextBlock Text="Password Protector" FontSize="72" FontFamily="Buxton Sketch" HorizontalAlignment="Center"/>
+                <ListBox x:ConnectionId='1' Name="MainMenu" 
+                 HorizontalContentAlignment="Stretch"                                             >
+
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                                    <ColumnDefinition Width="4*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Image Source="/Assets/Sherlock.jpg" Width="50" Height="50" />
+                                <TextBlock Text="{Binding Title}" Foreground="Red" Grid.Column="1"  />
+                            </Grid>
+
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+                <Button x:ConnectionId='2' x:Name="Add_button" 
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Left"
+                                            
+                    Content="Add"/>
+                <Button x:ConnectionId='3' x:Name="Exit_button" 
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Left"
+                    Content="Exit"                          />
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>
+

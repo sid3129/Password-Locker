@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>INTERSTELLAR</Machine>
+    <WindowsUser>siddarth</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e0739840-2c2f-4bd7-9bcb-fdf75e6b015a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6BC9C1179B52F9D3578247A8E3D2193201907DD7F40186BB1834F017FE2E4615</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e0739840-2c2f-4bd7-9bcb-fdf75e6b015a_1.0.0.0_neutral__jwgsr746tf1dw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e0739840-2c2f-4bd7-9bcb-fdf75e6b015a_jwgsr746tf1dw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e0739840-2c2f-4bd7-9bcb-fdf75e6b015a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=siddarth</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-28T10:09:06.594</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\bin\Debug\PasswordLocker.exe">
+      <PackagePath>PasswordLocker.exe</PackagePath>
+      <Modified>2015-11-28T10:09:01.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Azure.KeyVault.Core.1.0.0\lib\portable-net45+wp8+wpa81+win\Microsoft.Azure.KeyVault.Core.dll">
+      <PackagePath>Microsoft.Azure.KeyVault.Core.dll</PackagePath>
+      <Modified>2015-10-25T17:20:20.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.Edm.5.6.4\lib\portable-net45+wp8+win8+wpa\Microsoft.Data.Edm.dll">
+      <PackagePath>Microsoft.Data.Edm.dll</PackagePath>
+      <Modified>2015-10-25T17:20:50.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.OData.5.6.4\lib\portable-net45+wp8+win8+wpa\Microsoft.Data.OData.dll">
+      <PackagePath>Microsoft.Data.OData.dll</PackagePath>
+      <Modified>2015-10-25T17:20:52.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\WindowsAzure.MobileServices.1.3.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+      <Modified>2015-08-02T12:59:03.819</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\WindowsAzure.MobileServices.1.3.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+      <Modified>2015-08-02T12:59:03.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\WindowsAzure.Storage.6.0.0\lib\win8\Microsoft.WindowsAzure.Storage.dll">
+      <PackagePath>Microsoft.WindowsAzure.Storage.dll</PackagePath>
+      <Modified>2015-10-25T17:20:54.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Newtonsoft.Json.6.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-10-25T17:20:53.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2015-08-02T12:59:03.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2015-08-02T12:59:03.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\System.Spatial.5.6.4\lib\portable-net45+wp8+win8+wpa\System.Spatial.dll">
+      <PackagePath>System.Spatial.dll</PackagePath>
+      <Modified>2015-10-25T17:20:49.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.Edm.5.6.4\lib\portable-net45+wp8+win8+wpa\de\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>de\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:50.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.Edm.5.6.4\lib\portable-net45+wp8+win8+wpa\es\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>es\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:50.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.Edm.5.6.4\lib\portable-net45+wp8+win8+wpa\fr\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>fr\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:50.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.Edm.5.6.4\lib\portable-net45+wp8+win8+wpa\it\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>it\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:50.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.Edm.5.6.4\lib\portable-net45+wp8+win8+wpa\ja\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>ja\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:50.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.Edm.5.6.4\lib\portable-net45+wp8+win8+wpa\ko\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>ko\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:50.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.Edm.5.6.4\lib\portable-net45+wp8+win8+wpa\ru\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>ru\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:50.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.Edm.5.6.4\lib\portable-net45+wp8+win8+wpa\zh-Hans\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:50.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.Edm.5.6.4\lib\portable-net45+wp8+win8+wpa\zh-Hant\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:51.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.OData.5.6.4\lib\portable-net45+wp8+win8+wpa\de\Microsoft.Data.OData.resources.dll">
+      <PackagePath>de\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:51.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.OData.5.6.4\lib\portable-net45+wp8+win8+wpa\es\Microsoft.Data.OData.resources.dll">
+      <PackagePath>es\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:51.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.OData.5.6.4\lib\portable-net45+wp8+win8+wpa\fr\Microsoft.Data.OData.resources.dll">
+      <PackagePath>fr\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:51.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.OData.5.6.4\lib\portable-net45+wp8+win8+wpa\it\Microsoft.Data.OData.resources.dll">
+      <PackagePath>it\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:51.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.OData.5.6.4\lib\portable-net45+wp8+win8+wpa\ja\Microsoft.Data.OData.resources.dll">
+      <PackagePath>ja\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:51.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.OData.5.6.4\lib\portable-net45+wp8+win8+wpa\ko\Microsoft.Data.OData.resources.dll">
+      <PackagePath>ko\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:51.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.OData.5.6.4\lib\portable-net45+wp8+win8+wpa\ru\Microsoft.Data.OData.resources.dll">
+      <PackagePath>ru\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:52.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.OData.5.6.4\lib\portable-net45+wp8+win8+wpa\zh-Hans\Microsoft.Data.OData.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:52.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\Microsoft.Data.OData.5.6.4\lib\portable-net45+wp8+win8+wpa\zh-Hant\Microsoft.Data.OData.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:52.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\System.Spatial.5.6.4\lib\portable-net45+wp8+win8+wpa\de\System.Spatial.resources.dll">
+      <PackagePath>de\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:49.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\System.Spatial.5.6.4\lib\portable-net45+wp8+win8+wpa\es\System.Spatial.resources.dll">
+      <PackagePath>es\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:49.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\System.Spatial.5.6.4\lib\portable-net45+wp8+win8+wpa\fr\System.Spatial.resources.dll">
+      <PackagePath>fr\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:49.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\System.Spatial.5.6.4\lib\portable-net45+wp8+win8+wpa\it\System.Spatial.resources.dll">
+      <PackagePath>it\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:49.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\System.Spatial.5.6.4\lib\portable-net45+wp8+win8+wpa\ja\System.Spatial.resources.dll">
+      <PackagePath>ja\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:49.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\System.Spatial.5.6.4\lib\portable-net45+wp8+win8+wpa\ko\System.Spatial.resources.dll">
+      <PackagePath>ko\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:49.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\System.Spatial.5.6.4\lib\portable-net45+wp8+win8+wpa\ru\System.Spatial.resources.dll">
+      <PackagePath>ru\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:49.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\System.Spatial.5.6.4\lib\portable-net45+wp8+win8+wpa\zh-Hans\System.Spatial.resources.dll">
+      <PackagePath>zh-Hans\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:50.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\packages\System.Spatial.5.6.4\lib\portable-net45+wp8+win8+wpa\zh-Hant\System.Spatial.resources.dll">
+      <PackagePath>zh-Hant\System.Spatial.resources.dll</PackagePath>
+      <Modified>2015-10-25T17:20:50.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\Assets\a.png">
+      <PackagePath>Assets\a.png</PackagePath>
+      <Modified>2015-08-09T09:12:03.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\Assets\b.png">
+      <PackagePath>Assets\b.png</PackagePath>
+      <Modified>2015-08-09T09:17:13.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\Assets\c.png">
+      <PackagePath>Assets\c.png</PackagePath>
+      <Modified>2015-08-09T09:20:36.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\Assets\d.png">
+      <PackagePath>Assets\d.png</PackagePath>
+      <Modified>2015-08-09T11:56:33.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\Assets\Sherlock.jpg">
+      <PackagePath>Assets\Sherlock.jpg</PackagePath>
+      <Modified>2015-07-30T16:11:04.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-11-28T10:09:00.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\bin\Debug\Add_Page.xbf">
+      <PackagePath>Add_Page.xbf</PackagePath>
+      <Modified>2015-11-28T10:09:00.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\bin\Debug\Detail_Page.xbf">
+      <PackagePath>Detail_Page.xbf</PackagePath>
+      <Modified>2015-11-28T10:09:00.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\bin\Debug\List_Page.xbf">
+      <PackagePath>List_Page.xbf</PackagePath>
+      <Modified>2015-11-28T10:09:00.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-11-28T10:09:00.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\bin\Debug\PasswordLocker.xr.xml">
+      <PackagePath>PasswordLocker.xr.xml</PackagePath>
+      <Modified>2015-10-24T17:48:14.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\PasswordLocker\PasswordLocker\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-28T10:09:05.829</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
